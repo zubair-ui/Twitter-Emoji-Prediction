@@ -126,3 +126,7 @@ test_predictions.csv
 - Deploy as a Streamlit or Gradio web app
 
 ---
+
+# IMPORTANT
+
+Please only use this repo using git clone and not zip it directly because a main modle file "model.safetensors" is uploaded on git LFS which does not work with zipping the repo.
